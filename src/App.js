@@ -6,7 +6,7 @@ import ItemDetailContainer from './Components/ItemDetailContainer/ItemDetailCont
 import CartProvider from './Context/CartContext/CartContext';
 import React from 'react';
 import Cart from './Components/Cart/Cart';
-import ContactForm from './Components/ContactForm.jsx/ContactForm';
+import ContactForm from './Components/ContactForm/ContactForm';
 
 function App() {
   return (
