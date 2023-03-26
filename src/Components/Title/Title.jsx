@@ -1,7 +1,7 @@
 import React from 'react';
 export const Title = (props) => {
     return (
-    <h1>{props.contenido}</h1>
+        <h2>{props.contenido}</h2>
     );
-} 
+}
 export default Title;
